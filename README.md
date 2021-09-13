@@ -4,7 +4,7 @@ Matrix screel loader. You can use it for free, and make something like pre-loade
 
 - [Link to the DEMO](https://jsfiddle.net/oscarhandsome/5dobgpjs/5/)
 
-> © Copyright by Askhat Bagaviev.
+> © Copyright by Askhat Bagaviev aka [Oscar Handsome](https://github.com/oscarhandsome)
 
 ## Install the dependencies
 
